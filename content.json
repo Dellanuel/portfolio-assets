@@ -1,0 +1,383 @@
+{
+  "_readme": "Everything on dellanuel-portfolio.web.app comes from this file. Edit it on GitHub in Dellanuel/portfolio-assets and the live site picks it up within about 5 minutes, no redeploy needed. Image, CV and blog paths without http(s) are loaded from assetsBaseUrl. Wrap words in *asterisks* inside a headline to highlight them. Leave a field as \"\" (or remove it) to hide it.",
+  "version": 1,
+  "assetsBaseUrl": "https://raw.githubusercontent.com/Dellanuel/portfolio-assets/main/",
+
+  "profile": {
+    "name": "Aniebo Chinemelu Emmanuel",
+    "shortName": "Nemelu",
+    "brand": "DELLANUEL",
+    "role": "Flutter Developer · Mobile App Engineer",
+    "location": "Lagos, Nigeria",
+    "workMode": "Open to remote",
+    "email": "chinemelue1@gmail.com",
+    "phone": "08154435160",
+    "availability": "Open to new roles and freelance projects",
+    "photo": "profile.jpg",
+    "cv": "cv.pdf",
+    "links": {
+      "github": "https://github.com/Dellanuel",
+      "linkedin": "https://www.linkedin.com/in/dellanuel",
+      "x": "https://twitter.com/ChinemeluManuel",
+      "whatsapp": "https://wa.me/qr/VZL4DWYTHMGHG1"
+    }
+  },
+
+  "hero": {
+    "greeting": "Hi, I'm Nemelu.",
+    "headline": "I build Flutter apps for *healthcare*, education and commerce.",
+    "summary": "Flutter developer and Doctor of Pharmacy. I design, build and ship cross-platform apps for Android, iOS and the web, with 8+ products delivered so far, from AI telemedicine to exam prep for medical students.",
+    "stack": ["Flutter", "Dart", "Firebase", "Supabase", "Riverpod", "BLoC"],
+    "badges": [
+      { "icon": "flutter", "title": "8+ apps shipped", "subtitle": "Android · iOS · Web" },
+      { "icon": "school", "title": "Doctor of Pharmacy", "subtitle": "UNN · Class of 2026" }
+    ],
+    "stats": [
+      { "value": "8+", "label": "Apps delivered" },
+      { "value": "2+ yrs", "label": "Shipping Flutter professionally" },
+      { "value": "50+", "label": "Staff served by Bomach OS" },
+      { "value": "D.Pharm", "label": "University of Nigeria, Nsukka" }
+    ]
+  },
+
+  "sections": {
+    "work": {
+      "eyebrow": "Selected work",
+      "title": "Products I've helped ship",
+      "subtitle": "Apps I designed, built and released for real users, from the Play Store to the boardroom."
+    },
+    "services": {
+      "eyebrow": "Services",
+      "title": "How I can help",
+      "subtitle": "From a first prototype to an app in both stores, I can own the whole Flutter side of your product."
+    },
+    "experience": {
+      "eyebrow": "Experience",
+      "title": "Where I've worked",
+      "subtitle": "Teams in health-tech, ed-tech and enterprise software."
+    },
+    "insights": {
+      "eyebrow": "Insights",
+      "title": "Notes from production",
+      "subtitle": "What I've learned building and shipping Flutter apps."
+    },
+    "moreWork": {
+      "eyebrow": "More work",
+      "title": "Other *projects*",
+      "subtitle": "Smaller products, personal builds and apps for clients."
+    },
+    "approach": {
+      "eyebrow": "Why work with me",
+      "title": "What I bring to a *team*"
+    },
+    "toolkit": {
+      "eyebrow": "Toolkit",
+      "title": "Skills & *education*",
+      "subtitle": "The tools I reach for to take an app from idea to store."
+    }
+  },
+
+  "about": {
+    "eyebrow": "About me",
+    "headline": "Merging *healthcare* with technology.",
+    "intro": "I'm a Flutter developer with a Doctor of Pharmacy degree from the University of Nigeria, Nsukka. That mix shapes how I work: I understand the problems behind health-tech products, and I care about getting the details right.",
+    "facts": [
+      { "icon": "location", "label": "Based in", "value": "Lagos, Nigeria · open to remote" },
+      { "icon": "school", "label": "Education", "value": "Doctor of Pharmacy, UNN (2026)" },
+      { "icon": "focus", "label": "Focus", "value": "Health-tech, ed-tech and e-commerce" },
+      { "icon": "mobile", "label": "Platforms", "value": "Android, iOS and the web" }
+    ],
+    "bio": [
+      "I build cross-platform mobile and web apps with Flutter and Dart, backed by Firebase, Supabase and REST APIs. I've delivered 8+ apps across healthcare, education and e-commerce, with releases on both the Google Play Store and the Apple App Store.",
+      "My work covers the full lifecycle: turning Figma designs into polished, accessible interfaces, structuring code with clean architecture and Riverpod, BLoC, GetX or Provider, and taking apps through store review and release.",
+      "I wrote my first Flutter app in 2021 while studying pharmacy. Today I focus on products where reliability matters: telemedicine, medical education and the internal tools teams depend on every day."
+    ],
+    "highlights": [
+      { "title": "Healthcare know-how", "text": "Pharmacy training means features match how clinicians and patients actually work, with fewer hand-offs to explain the domain." },
+      { "title": "Architecture that lasts", "text": "Clean, layered code with clear state management, so apps stay easy to grow, test and hand over." },
+      { "title": "Design to store release", "text": "From Figma to Play Console and App Store Connect, I take features all the way to users." }
+    ],
+    "education": [
+      {
+        "degree": "Doctor of Pharmacy (D.Pharm)",
+        "field": "Pharmaceutical Sciences",
+        "school": "University of Nigeria, Nsukka (UNN)",
+        "year": "2026",
+        "status": "Completed"
+      }
+    ],
+    "skills": [
+      { "group": "Languages", "items": ["Dart", "JavaScript"] },
+      { "group": "Frameworks & state", "items": ["Flutter", "Riverpod", "BLoC / Cubit", "GetX", "Provider"] },
+      { "group": "Backend & data", "items": ["Firebase Auth", "Firestore", "Cloud Messaging", "Supabase (PostgreSQL)", "REST APIs", "OAuth", "SQLite", "Hive"] },
+      { "group": "Architecture", "items": ["Clean Architecture", "MVVM", "MVC", "Repository pattern", "Dependency injection"] },
+      { "group": "Quality & delivery", "items": ["Widget & integration tests", "CI/CD", "Google Play Console", "App Store Connect", "Agile / Scrum"] },
+      { "group": "Tools", "items": ["Git & GitHub", "Figma", "Postman", "Android Studio", "VS Code", "AWS"] }
+    ]
+  },
+
+  "experience": [
+    {
+      "role": "Front-End Developer (Flutter)",
+      "company": "DOC!",
+      "companyNote": "AI-powered healthcare platform",
+      "location": "Lagos, Nigeria",
+      "start": "May 2025",
+      "end": "Present",
+      "summary": "Building the patient-facing app for an AI-integrated medical consultation platform on Android and iOS.",
+      "highlights": [
+        "Designed and built responsive, patient-facing UI in Flutter; the app has 100+ downloads on Google Play and active users on Android and iOS.",
+        "Integrated REST APIs and Firebase (Auth, Firestore, Cloud Messaging) for real-time sync, secure accounts and push notifications.",
+        "Introduced clean architecture with Riverpod, cutting code complexity by about 30% across 15+ screens.",
+        "Kept rendering at a steady 60fps on mid-range devices with lazy loading, leaner rebuilds and image caching.",
+        "Own releases end to end through Google Play Console and App Store Connect."
+      ],
+      "tags": ["Healthcare", "Riverpod", "Firebase", "REST APIs"]
+    },
+    {
+      "role": "Mobile App Developer (Flutter)",
+      "company": "Bomach Group of Companies",
+      "companyNote": "Enterprise",
+      "location": "Lagos, Nigeria",
+      "start": "2025",
+      "end": "2026",
+      "summary": "Architected and built Bomach OS, the company's internal operating system, used by 50+ employees across departments.",
+      "highlights": [
+        "Built a full-stack internal operating system in Flutter with integrated front-end and back-end modules for 50+ employees.",
+        "Designed a modular Riverpod architecture with clean separation of data, domain and presentation layers.",
+        "Delivered 5+ cross-functional features including task management, reporting dashboards and internal communication tools.",
+        "Worked with stakeholders on requirements, technical specs and prototype iterations in an Agile process."
+      ],
+      "tags": ["Enterprise", "Riverpod", "Architecture"]
+    },
+    {
+      "role": "Mobile App Developer (Flutter)",
+      "company": "Keypoints Academy",
+      "companyNote": "EdTech platform",
+      "location": "Nigeria",
+      "start": "Mar 2025",
+      "end": "Jun 2025",
+      "summary": "Built cross-platform tutorial apps with structured courses, video lessons and interactive assessments.",
+      "highlights": [
+        "Shipped Flutter tutorial apps with structured courses, embedded video content and interactive assessments.",
+        "Integrated Firebase Authentication and Firestore for content management, secure sign-up and progress tracking.",
+        "Cut app load time by 40% with optimized assets, lazy-loaded course modules and Provider-based state management."
+      ],
+      "tags": ["EdTech", "Firebase", "Provider"]
+    },
+    {
+      "role": "Mobile App Developer (Flutter)",
+      "company": "Ebbing",
+      "companyNote": "EdTech",
+      "location": "Nigeria",
+      "start": "2024",
+      "end": "Present",
+      "summary": "Building Quizzy, a real-time competitive quiz platform with multiplayer games and live leaderboards.",
+      "highlights": [
+        "Developed a competitive quiz app with Flutter, Firebase and Riverpod supporting real-time multiplayer games for 100+ users.",
+        "Implemented live leaderboards with Firestore listeners that handle concurrent updates without conflicts.",
+        "Built engaging animations and transitions that improved engagement and session length.",
+        "Tested and debugged across 10+ Android and iOS device configurations."
+      ],
+      "tags": ["EdTech", "Real-time", "Riverpod", "Firebase"]
+    }
+  ],
+
+  "workPage": {
+    "eyebrow": "Portfolio",
+    "title": "Selected *works*.",
+    "description": "Apps across healthcare, education, commerce and enterprise, from store-published products to internal tools used every day."
+  },
+
+  "projects": [
+    {
+      "id": "doc",
+      "title": "DOC!",
+      "tagline": "AI medical consultation app",
+      "category": "Healthcare",
+      "featured": true,
+      "description": "An AI-integrated healthcare app offering real-time, on-demand medical advice, appointment management and patient dashboards, bridging the gap between patients and immediate care.",
+      "stack": ["Flutter", "Riverpod", "Firebase", "REST APIs", "AI"],
+      "metrics": ["100+ downloads", "Android & iOS"],
+      "image": "doc.png",
+      "color": "#0F7A6E",
+      "iconOnColor": true,
+      "device": "phone",
+      "status": "Live",
+      "links": {
+        "playStore": "https://play.google.com/store/apps/details?id=com.lien.doc&hl=en"
+      }
+    },
+    {
+      "id": "oscepro",
+      "title": "OSCEPRO",
+      "tagline": "Medical education app",
+      "category": "Education",
+      "featured": true,
+      "description": "An interactive tutorial app for medical students and professionals, built around OSCE (Objective Structured Clinical Examination) case scenarios with scoring rubrics.",
+      "stack": ["Flutter", "Firebase", "GetX"],
+      "metrics": ["Play Store & App Store"],
+      "image": "oscepro.png",
+      "color": "#1F5C99",
+      "device": "phone",
+      "status": "Live",
+      "links": {
+        "playStore": "https://play.google.com/store/apps/details?id=com.osce.oscepro&pcampaignid=web_share"
+      }
+    },
+    {
+      "id": "bomach-os",
+      "title": "Bomach OS",
+      "tagline": "Company operating system",
+      "category": "Enterprise",
+      "featured": true,
+      "description": "An internal operating system for Bomach Group with a modular architecture for task management, reporting dashboards and internal communications. Used daily by 50+ employees.",
+      "stack": ["Flutter", "Riverpod", "Firebase", "Clean Architecture"],
+      "metrics": ["50+ daily users", "5+ modules"],
+      "image": "bomach.png",
+      "color": "#C62828",
+      "device": "desktop",
+      "status": "Internal"
+    },
+    {
+      "id": "quizzy",
+      "title": "Quizzy",
+      "tagline": "Competitive quiz platform",
+      "category": "Education",
+      "description": "A real-time multiplayer quiz platform that hosts public competitions, with live leaderboards and a scoring engine.",
+      "stack": ["Flutter", "Firebase", "Riverpod"],
+      "metrics": ["100+ active users"],
+      "image": "quizyy.png",
+      "color": "#2A9FD8",
+      "status": "Private"
+    },
+    {
+      "id": "sca-q-vault",
+      "title": "SCA-Q-VAULT",
+      "tagline": "Exam prep question bank",
+      "category": "Education",
+      "description": "A question bank and tutorial platform that helps medical professionals prepare for exams.",
+      "stack": ["Flutter", "GetX"],
+      "image": "scaqv.png",
+      "color": "#475569",
+      "status": "Live",
+      "links": {
+        "playStore": "https://play.google.com/store/apps/details?id=com.osce.scaqvault&pcampaignid=web_share"
+      }
+    },
+    {
+      "id": "safedeals",
+      "title": "SafeDeals",
+      "tagline": "Pharmacy e-commerce",
+      "category": "Commerce",
+      "description": "A secure e-commerce platform connecting users with verified pharmacies for safe drug purchases, order tracking and reliable delivery.",
+      "stack": ["Flutter", "GetX"],
+      "image": "safedeals.png",
+      "color": "#3F51B5",
+      "iconOnColor": true,
+      "status": "Live",
+      "links": {
+        "playStore": "https://play.google.com/store/apps/details?id=com.safedeal.safedealapp&pcampaignid=web_share"
+      }
+    },
+    {
+      "id": "cesium",
+      "title": "Cesium",
+      "tagline": "Timed quiz competitions",
+      "category": "Education",
+      "description": "A dynamic quiz app that supports custom competitions, timed challenges and real-time leaderboards.",
+      "stack": ["Flutter", "Hive", "Firebase"],
+      "image": "cesium.png",
+      "color": "#1565D8",
+      "status": "Private"
+    },
+    {
+      "id": "meditracker",
+      "title": "MediTracker",
+      "tagline": "Medication adherence",
+      "category": "Healthcare",
+      "description": "Helps users log medication intake, set prescription reminders and track adherence history with simple charts.",
+      "stack": ["Flutter", "Local notifications", "SQLite"],
+      "color": "#0F766E",
+      "status": "Private"
+    },
+    {
+      "id": "drughub",
+      "title": "DrugHub",
+      "tagline": "Pharmaceutical reference",
+      "category": "Healthcare",
+      "description": "A drug reference for pharmacists to look up uses, side effects, interactions, contraindications and dosage guidelines.",
+      "stack": ["Flutter", "REST APIs"],
+      "color": "#6D28D9",
+      "status": "Private"
+    }
+  ],
+
+  "services": [
+    { "icon": "mobile", "title": "Mobile app development", "description": "Production-ready Android and iOS apps from one Flutter codebase, from MVP to store release." },
+    { "icon": "web", "title": "Flutter web apps", "description": "Dashboards, internal tools and portals that share code with your mobile app." },
+    { "icon": "design", "title": "UI implementation", "description": "Figma designs turned into pixel-perfect, responsive and accessible interfaces." },
+    { "icon": "backend", "title": "Backend & API integration", "description": "Firebase, Supabase and REST APIs with authentication, real-time data and push notifications." },
+    { "icon": "architecture", "title": "Architecture & state", "description": "Clean, testable structure with Riverpod, BLoC, GetX or Provider that scales with your team." },
+    { "icon": "speed", "title": "Performance & maintenance", "description": "Faster load times, smaller builds, bug fixes and ongoing feature work for apps in production." }
+  ],
+
+  "blogs": [
+    {
+      "id": "clean-architecture-in-flutter",
+      "category": "Architecture",
+      "readTime": "5 min read",
+      "title": "Clean Architecture in Flutter: Lessons from Production",
+      "description": "After shipping four apps to production, here is how I structure Flutter projects for long-term maintainability and team scalability.",
+      "image": "blog_flutter.png",
+      "imageFit": "contain",
+      "file": "blogs/clean-architecture-in-flutter.md"
+    },
+    {
+      "id": "building-telemedicine-apps-in-africa",
+      "category": "Health-tech",
+      "readTime": "6 min read",
+      "title": "Building Telemedicine Apps in Africa: Technical Realities",
+      "description": "The unique engineering challenges of healthcare software in low-bandwidth, high-impact environments and how to solve them.",
+      "image": "blogs_healthtech.png",
+      "file": "blogs/building-telemedicine-apps-in-africa.md"
+    },
+    {
+      "id": "getx-vs-riverpod-in-practice",
+      "category": "Flutter",
+      "readTime": "4 min read",
+      "title": "State Management Showdown: GetX vs Riverpod in Practice",
+      "description": "A practical comparison from someone who has shipped production apps with both. When to use which, and why I migrated.",
+      "image": "blog_flutter.png",
+      "imageFit": "contain",
+      "file": "blogs/getx-vs-riverpod-in-practice.md"
+    },
+    {
+      "id": "flutter-web-performance",
+      "category": "Performance",
+      "readTime": "5 min read",
+      "title": "Flutter Web Performance: What Actually Moves the Needle",
+      "description": "Concrete techniques that cut my portfolio site load time in half. Skip the theory: these are the fixes that matter.",
+      "image": "blog_flutter.png",
+      "imageFit": "contain",
+      "file": "blogs/flutter-web-performance.md"
+    },
+    {
+      "id": "from-pharmacy-to-flutter",
+      "category": "Career",
+      "readTime": "4 min read",
+      "title": "From Pharmacy to Flutter: Why I Write Code That Heals",
+      "description": "How a pharmaceutical sciences background gave me an unexpected advantage in building healthcare software.",
+      "image": "blogs_healthtech.png",
+      "file": "blogs/from-pharmacy-to-flutter.md"
+    }
+  ],
+
+  "contact": {
+    "eyebrow": "Have an idea?",
+    "headline": "Got a vision? Let's bring it to *life*.",
+    "blurb": "I'm always excited to collaborate on innovative products in healthcare and beyond.",
+    "callLabel": "Book a call",
+    "emailLabel": "Email me"
+  }
+}
